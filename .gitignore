@@ -1,0 +1,58 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.log
+*.pot
+
+# ---- Virtual environment ----
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+
+# ---- Jupyter Notebooks ----
+.ipynb_checkpoints/
+
+# ---- IDE / Editor files ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Build and distribution ----
+build/
+dist/
+*.egg/
+*.whl/
+
+# ---- Local config ----
+*.local
+*.env
+
+# ---- Backup or temp files ----
+*.bak
+*.swp
+*.tmp
+
+# ---- Data files ----
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.zip
+*.gz
+*.sav
+*.pkl
+data/
+datasets/
