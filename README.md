@@ -8,14 +8,22 @@ The project Automated Valuation Model to predict the assessed value of a residen
 
 # Workflow Summary 
 
-1.Data cleaning and statification : is done to remove invalid and missing entried:converted numerics types are replaced with 0
-2.Feature Engineering : this added derived features like Age Ratios and defined colunms
-3.Data perprocessing and Data Validatipn : Data is splitted into both test data and training Data in the ratio of 80:20 i.e the Test data is 20 and the Training data is 80 and split was done based on Accessed valued to maintain distribution across the dataset
-4. Modelling : Ridge Regression , Random forest and HistGradientBoosting are choosen models for this project
-5. Model selection :Models used are Ridge Rigression , Random forest and HistGradientBoosting and this project used 3 fold Cross validation on (MAE,RMSE ,R²)
-6. Hyperparameter Tunning is done using RandomizedSearchCV and HalvingRandomSearchCV
-7. Model Evaluation was done calculating MAE,RMSE,R²,WAPE and MAPE on the test set
-8. Model Explainability by applied Aapplying SHAP Values to identify features that influences our perfomance metrics. 
+.Data cleaning and statification : is done to remove invalid and missing entried:converted numerics types are replaced with 0.
+
+.Feature Engineering : this added derived features like Age Ratios and defined colunms.
+
+.Data perprocessing and Data Validatipn : Data is splitted into both test data and training Data in the ratio of 80:20 i.e the Test data is 20 and the Training data is 80 and split was done based on Accessed valued to maintain distribution across the dataset.
+
+. Modelling : Ridge Regression , Random forest and HistGradientBoosting are choosen models for this project.
+
+. Model selection :Models used are Ridge Rigression , Random forest and HistGradientBoosting and this project used 3 fold Cross validation on (MAE,RMSE ,R²).
+
+. Hyperparameter Tunning is done using RandomizedSearchCV and HalvingRandomSearchCV
+
+. Model Evaluation was done calculating MAE,RMSE,R²,WAPE and MAPE on the test set
+ 
+. Model Explainability by applied Aapplying SHAP Values to identify features that influences our perfomance metrics. 
+
 
 # Outcomes -Non Technical Team
 # Project Goal
