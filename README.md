@@ -76,3 +76,5 @@ Libraries: Pandas, numpy,scikit-learn,matplotlib,seaborn,shap
 Environment Virtual Environment venv
 Version Control Git+ GitHub
 
+AI assistance disclosure
+OpenAIchatgpt was used as a supportive tool for detecting code error.
