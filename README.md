@@ -38,33 +38,39 @@ It can estimates property values in seconds which speed up asssements process fo
 It provides insight into which property features affect porperty value the most.(Word count 200)
 
 # Outcomes -Technical Team
-- load Libraries and data ,splits data and straified sampling based on certain features.
+# load Libraries and data ,splits data and straified sampling based on certain features.
 
-- Exploratory Data Analysis to visualize the training data to gain insightusing different plots
+# Exploratory Data Analysis 
+To visualize the training data to gain insightusing different plots
 
-- Feature Engineering -Polynomial for numeric features,one-hot encoding for features,winsorized extreme outliers for property values.
+# Feature Engineering 
 
-- Model Training: Model choosen  are Ridge Rigression , Random forest and HistGradientBoosting and  our primary model is Hisgradientboosting regressor wrapped in Transformedregressor for stable ranges.Training uses 3-fold crossvalidation based on property deciles.Final tunned parameters learning rate =0.11, max depth=9, max_leaf_nodes= 83.
+Polynomial for numeric features,one-hot encoding for features,winsorized extreme outliers for property values.
 
--Evaluation Metrics: 
+#  Model Training: 
+
+Model choosen  are Ridge Rigression , Random forest and HistGradientBoosting and  our primary model is Hisgradientboosting regressor wrapped in Transformedregressor for stable ranges.Training uses 3-fold crossvalidation based on property deciles.Final tunned parameters learning rate =0.11, max depth=9, max_leaf_nodes= 83.
+
+# Evaluation Metrics: 
  ModeL Performance Metrics MAE:$146,084   RMSE:$1,762,157  R²:0.194  WAPE:27.74%  MAPE:3805.13%  showing that the model learned some pattern R²>0  but still struggles to generalize,prredictions have laarge variablity for extreme properties,showing that the model is not yet production ready but is a strong baseline prototype 
--  Explainibility :SHAP feature importance plots top features form the dataset
+ 
+# Explainibility 
+SHAP feature importance plots top features form the dataset
 
-Key Findings
-Model captures general patterns in assessed value but underestimate high value properties. 
-High MAPE is due to extreme outliers and long tail distribution
-Log transformation and quantile losses significantly improve mode stability
-SHAP shows that living area and land area are dominant drivers features
+# Key Findings
+-Model captures general patterns in assessed value but underestimate high value properties. 
+-High MAPE is due to extreme outliers and long tail distribution
+-Log transformation and quantile losses significantly improve mode stability
+-SHAP shows that living area and land area are dominant drivers features
 
-- Future Work
+# Future Work
 Integrate geospatial context like centroid coordinates, proximities  to amenities
 Segment modelling by property type feature or neighborhood
 Apply Huber loss or quantile regression for robutness
 Deployment as an internal assessment dashboaard for explainability.
-
 Track model choices ,parameter tuning and evaluation criteria.
 
-- Tech Stack
+# Tech Stack
 Language :Python 3.12
 Libraries: Pandas, numpy,scikit-learn,matplotlib,seaborn,shap
 Environment Virtual Environment venv
