@@ -1,0 +1,12 @@
+{
+  "target_hist": "Outputs\\eda\\target_hist.png",
+  "target_log_hist": "Outputs\\eda\\target_log_hist.png",
+  "corr_heatmap": "Outputs\\eda\\corr_heatmap.png",
+  "scatter_Assessed Value 4": "Outputs\\eda\\scatter_Assessed_Value_4.png",
+  "scatter_Assessed Value 2": "Outputs\\eda\\scatter_Assessed_Value_2.png",
+  "scatter_Attached Garage": "Outputs\\eda\\scatter_Attached_Garage.png",
+  "scatter_Water Frontage Measurement": "Outputs\\eda\\scatter_Water_Frontage_Measurement.png",
+  "scatter_Assessed Value 3": "Outputs\\eda\\scatter_Assessed_Value_3.png",
+  "scatter_Sewer Frontage Measurement": "Outputs\\eda\\scatter_Sewer_Frontage_Measurement.png",
+  "box_by_neighbourhood": "Outputs\\eda\\box_target_by_neighbourhood.png"
+}

@@ -1,0 +1,5 @@
+dtype,count
+object,42
+float64,32
+int64,3
+datetime64[ns],2

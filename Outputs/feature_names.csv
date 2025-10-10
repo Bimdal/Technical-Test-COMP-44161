@@ -1,0 +1,275 @@
+0
+num__Total Living Area
+num__Assessed Land Area
+num__Rooms
+num__Year Built
+num__Number Floors (Condo)
+num__Water Frontage Measurement
+num__Sewer Frontage Measurement
+num__Dwelling Units
+num__Centroid Lat
+num__Centroid Lon
+num__Age
+num__Area_per_Room
+num__Lot_to_Living_Ratio
+num__Land_per_Unit
+num__Water Frontage Present
+num__Sewer Frontage Present
+num__Days_Since_Assessment
+cat__Neighbourhood Area_AMBER TRAILS
+cat__Neighbourhood Area_ARCHWOOD
+cat__Neighbourhood Area_ASSINIBOIA DOWNS
+cat__Neighbourhood Area_BEAUMONT
+cat__Neighbourhood Area_BETSWORTH
+cat__Neighbourhood Area_BIRCHWOOD
+cat__Neighbourhood Area_BOOTH
+cat__Neighbourhood Area_BRIDGWATER CENTRE
+cat__Neighbourhood Area_BRIDGWATER FOREST
+cat__Neighbourhood Area_BRIDGWATER LAKES
+cat__Neighbourhood Area_BRIDGWATER TRAILS
+cat__Neighbourhood Area_BROADWAY-ASSINIBOINE
+cat__Neighbourhood Area_BROCKVILLE
+cat__Neighbourhood Area_BROOKLANDS
+cat__Neighbourhood Area_BRUCE PARK
+cat__Neighbourhood Area_BUCHANAN
+cat__Neighbourhood Area_BURROWS CENTRAL
+cat__Neighbourhood Area_BURROWS-KEEWATIN
+cat__Neighbourhood Area_CANTERBURY PARK
+cat__Neighbourhood Area_CENTENNIAL
+cat__Neighbourhood Area_CENTRAL PARK
+cat__Neighbourhood Area_CENTRAL RIVER HGTS
+cat__Neighbourhood Area_CENTRAL ST BONIFACE
+cat__Neighbourhood Area_CHALMERS
+cat__Neighbourhood Area_CHEVRIER
+cat__Neighbourhood Area_CRESCENT PARK
+cat__Neighbourhood Area_CRESCENTWOOD
+cat__Neighbourhood Area_CRESTVIEW
+cat__Neighbourhood Area_DAKOTA CROSSING
+cat__Neighbourhood Area_DANIEL McINTYRE
+cat__Neighbourhood Area_DEER LODGE
+cat__Neighbourhood Area_DUFFERIN
+cat__Neighbourhood Area_EAGLEMERE
+cat__Neighbourhood Area_EARL GREY
+cat__Neighbourhood Area_EAST ELMWOOD
+cat__Neighbourhood Area_EBBY-WENTWORTH
+cat__Neighbourhood Area_EDGELAND
+cat__Neighbourhood Area_ELM PARK
+cat__Neighbourhood Area_ELMHURST
+cat__Neighbourhood Area_ERIC COY
+cat__Neighbourhood Area_EXCHANGE DISTRICT
+cat__Neighbourhood Area_FAIRFIELD PARK
+cat__Neighbourhood Area_FORT RICHMOND
+cat__Neighbourhood Area_FRAIPONT
+cat__Neighbourhood Area_GARDEN CITY
+cat__Neighbourhood Area_GLENELM
+cat__Neighbourhood Area_GLENWOOD
+cat__Neighbourhood Area_GRANT PARK
+cat__Neighbourhood Area_GRASSIE
+cat__Neighbourhood Area_HERITAGE PARK
+cat__Neighbourhood Area_INKSTER GARDENS
+cat__Neighbourhood Area_INKSTER-FARADAY
+cat__Neighbourhood Area_ISLAND LAKES
+cat__Neighbourhood Area_J. B. MITCHELL
+cat__Neighbourhood Area_JAMESWOOD
+cat__Neighbourhood Area_JEFFERSON
+cat__Neighbourhood Area_KERN PARK
+cat__Neighbourhood Area_KILDARE-REDONDA
+cat__Neighbourhood Area_KILDONAN DRIVE
+cat__Neighbourhood Area_KING EDWARD
+cat__Neighbourhood Area_KINGSTON CRESCENT
+cat__Neighbourhood Area_KIRKFIELD
+cat__Neighbourhood Area_LAVALEE
+cat__Neighbourhood Area_LEILA NORTH
+cat__Neighbourhood Area_LEILA-MCPHILLIPS TRI
+cat__Neighbourhood Area_LINDEN RIDGE
+cat__Neighbourhood Area_LINDEN WOODS
+cat__Neighbourhood Area_LORD ROBERTS
+cat__Neighbourhood Area_LUXTON
+cat__Neighbourhood Area_MAGINOT
+cat__Neighbourhood Area_MANDALAY WEST
+cat__Neighbourhood Area_MARGARET PARK
+cat__Neighbourhood Area_MARLTON
+cat__Neighbourhood Area_MATHERS
+cat__Neighbourhood Area_MAYBANK
+cat__Neighbourhood Area_MEADOWOOD
+cat__Neighbourhood Area_MEADOWS
+cat__Neighbourhood Area_MELROSE
+cat__Neighbourhood Area_MINNETONKA
+cat__Neighbourhood Area_MINTO
+cat__Neighbourhood Area_MISSION GARDENS
+cat__Neighbourhood Area_MISSION INDUSTRIAL
+cat__Neighbourhood Area_MONTCALM
+cat__Neighbourhood Area_MUNROE EAST
+cat__Neighbourhood Area_MUNROE WEST
+cat__Neighbourhood Area_MYNARSKI
+cat__Neighbourhood Area_McMILLAN
+cat__Neighbourhood Area_N INKSTER INDUSTRIAL
+cat__Neighbourhood Area_NIAKWA PLACE
+cat__Neighbourhood Area_NORBERRY
+cat__Neighbourhood Area_NORMAND PARK
+cat__Neighbourhood Area_NORTH POINT DOUGLAS
+cat__Neighbourhood Area_NORTH RIVER HEIGHTS
+cat__Neighbourhood Area_NORTH ST BONIFACE
+cat__Neighbourhood Area_NORWOOD EAST
+cat__Neighbourhood Area_NORWOOD WEST
+cat__Neighbourhood Area_OLD TUXEDO
+cat__Neighbourhood Area_PARC LA SALLE
+cat__Neighbourhood Area_PEGUIS
+cat__Neighbourhood Area_PEMBINA STRIP
+cat__Neighbourhood Area_POINT ROAD
+cat__Neighbourhood Area_PULBERRY
+cat__Neighbourhood Area_RADISSON
+cat__Neighbourhood Area_RICHMOND LAKES
+cat__Neighbourhood Area_RICHMOND WEST
+cat__Neighbourhood Area_RIDGEDALE
+cat__Neighbourhood Area_RIDGEWOOD SOUTH
+cat__Neighbourhood Area_RIVER EAST
+cat__Neighbourhood Area_RIVER PARK SOUTH
+cat__Neighbourhood Area_RIVER WEST PARK
+cat__Neighbourhood Area_RIVER-OSBORNE
+cat__Neighbourhood Area_RIVERBEND
+cat__Neighbourhood Area_RIVERGROVE
+cat__Neighbourhood Area_RIVERVIEW
+cat__Neighbourhood Area_ROBERTSON
+cat__Neighbourhood Area_ROBLIN PARK
+cat__Neighbourhood Area_ROCKWOOD
+cat__Neighbourhood Area_ROSLYN
+cat__Neighbourhood Area_ROSSER-OLD KILDONAN
+cat__Neighbourhood Area_ROSSMERE-A
+cat__Neighbourhood Area_ROSSMERE-B
+cat__Neighbourhood Area_ROYALWOOD
+cat__Neighbourhood Area_SAGE CREEK
+cat__Neighbourhood Area_SARGENT PARK
+cat__Neighbourhood Area_SEVEN OAKS
+cat__Neighbourhood Area_SHAUGHNESSY PARK
+cat__Neighbourhood Area_SILVER HEIGHTS
+cat__Neighbourhood Area_SIR JOHN FRANKLIN
+cat__Neighbourhood Area_SOUTH POINT DOUGLAS
+cat__Neighbourhood Area_SOUTH POINTE
+cat__Neighbourhood Area_SOUTH POINTE WEST
+cat__Neighbourhood Area_SOUTH RIVER HEIGHTS
+cat__Neighbourhood Area_SOUTH TUXEDO
+cat__Neighbourhood Area_SOUTHBOINE
+cat__Neighbourhood Area_SOUTHDALE
+cat__Neighbourhood Area_SOUTHLAND PARK
+cat__Neighbourhood Area_SPENCE
+cat__Neighbourhood Area_SPRINGFIELD NORTH
+cat__Neighbourhood Area_SPRINGFIELD SOUTH
+cat__Neighbourhood Area_ST B INDUSTRIAL PARK
+cat__Neighbourhood Area_ST GEORGE
+cat__Neighbourhood Area_ST JAMES INDUSTRIAL
+cat__Neighbourhood Area_ST JOHNS
+cat__Neighbourhood Area_ST MATTHEWS
+cat__Neighbourhood Area_ST NORBERT
+cat__Neighbourhood Area_ST VITAL PERIMETER S
+cat__Neighbourhood Area_STURGEON CREEK
+cat__Neighbourhood Area_TALBOT-GREY
+cat__Neighbourhood Area_TEMPLETON-SINCLAIR
+cat__Neighbourhood Area_THE MAPLES
+cat__Neighbourhood Area_TRANSCONA NORTH
+cat__Neighbourhood Area_TRANSCONA SOUTH
+cat__Neighbourhood Area_TUXEDO
+cat__Neighbourhood Area_TYNDALL PARK
+cat__Neighbourhood Area_VALHALLA
+cat__Neighbourhood Area_VALLEY GARDENS
+cat__Neighbourhood Area_VARENNES
+cat__Neighbourhood Area_VARSITY VIEW
+cat__Neighbourhood Area_VIALOUX
+cat__Neighbourhood Area_VICTORIA WEST
+cat__Neighbourhood Area_VISTA
+cat__Neighbourhood Area_W K INDUSTRIAL
+cat__Neighbourhood Area_WAVERLEY HEIGHTS
+cat__Neighbourhood Area_WAVERLEY WEST-B
+cat__Neighbourhood Area_WELLINGTON CRESCENT
+cat__Neighbourhood Area_WEST ALEXANDER
+cat__Neighbourhood Area_WEST BROADWAY
+cat__Neighbourhood Area_WESTDALE
+cat__Neighbourhood Area_WESTON
+cat__Neighbourhood Area_WESTWOOD
+cat__Neighbourhood Area_WHYTE RIDGE
+cat__Neighbourhood Area_WILDWOOD
+cat__Neighbourhood Area_WILKES SOUTH
+cat__Neighbourhood Area_WILLIAM WHYTE
+cat__Neighbourhood Area_WINDSOR PARK
+cat__Neighbourhood Area_WOLSELEY
+cat__Neighbourhood Area_WOODHAVEN
+cat__Neighbourhood Area_WORTHINGTON
+cat__Neighbourhood Area___OTHER__
+"cat__Market Region_1, TRANSCONA"
+"cat__Market Region_10, NEW ST BONIFACE/NEW ST VITAL"
+"cat__Market Region_2, EAST KILDONAN / NORTH KILDONAN"
+"cat__Market Region_3, WEST KILDONAN / OLD KILDONAN"
+"cat__Market Region_4, INNER CITY"
+"cat__Market Region_5, ST. JAMES"
+"cat__Market Region_6, CHARLESWOOD"
+"cat__Market Region_7, TUXEDO / RIVER HEIGHTS / FT ROUGE"
+"cat__Market Region_8, FORT GARRY / LINDENWOODS"
+"cat__Market Region_9, OLD ST BONIFACE/OLD ST VITAL"
+cat__Market Region_infrequent_sklearn
+cat__Building Type_3 LEVEL SPLIT
+cat__Building Type_4 LEVEL SPLIT
+cat__Building Type_BI-LEVEL
+cat__Building Type_CABOVER
+cat__Building Type_ONE & 1/2 STOREY
+cat__Building Type_ONE & 3/4 STOREY
+cat__Building Type_ONE STOREY
+cat__Building Type_TWO & 1/2 STOREY
+cat__Building Type_TWO STOREY
+cat__Building Type_TWO/ONE STOREY
+cat__Building Type_infrequent_sklearn
+cat__Basement_No
+cat__Basement_Yes
+cat__Basement_infrequent_sklearn
+cat__Basement Finish_No
+cat__Basement Finish_Yes
+cat__Basement Finish_infrequent_sklearn
+cat__Zoning_A - AGRICULTURAL
+cat__Zoning_C - CHARACTER
+cat__Zoning_C1 - COM - NEIGHBOURHOOD
+cat__Zoning_C2 - COM - COMMUNITY
+cat__Zoning_C3 - COM - CORRIDOR
+cat__Zoning_M - MULTIPLE-USE
+cat__Zoning_M1 - MANUFCTRNG - LIGHT
+cat__Zoning_M2 - MANUFCTRNG - GENERAL
+cat__Zoning_M3 - MANUFCTRNG - HEAVY
+cat__Zoning_PR1 - PRKS&REC-PASSIVE
+cat__Zoning_PR2 - PRKS&REC-ACTIVE
+cat__Zoning_R1E - RES - S F - ESTATE
+cat__Zoning_R1L - RES - S F - LARGE
+cat__Zoning_R1M - RES - S F - MEDIUM
+cat__Zoning_R1S - RES - S F - SMALL
+cat__Zoning_R2 - RES - TWO FAMILY
+cat__Zoning_RMFL - RES - MULTI-FAMILY
+cat__Zoning_RMFM - RES - MULTI-FAMILY
+cat__Zoning_RMFS - RES - MULTI-FAMILY
+cat__Zoning_RR2 - RURAL RESIDENTIAL-2
+cat__Zoning_RR5 - RURAL RESIDENTIAL-5
+cat__Zoning___OTHER__
+cat__Property Use Code_CMCMU - COMMERCIAL MULTIPLE USE
+cat__Property Use Code_CMOFF - OFFICE
+cat__Property Use Code_CMRRE - RESTAURANT
+cat__Property Use Code_CMRST - STORE
+cat__Property Use Code_CMVSR - VEHICLE SERVICE RELATED
+cat__Property Use Code_CNAPT - CONDO APARTMENT
+cat__Property Use Code_CNCMP - CONDO COMPLEX
+cat__Property Use Code_CNRES - CONDO RESIDENTIAL
+cat__Property Use Code_CNVAC - CONDO VACANT
+cat__Property Use Code_INWWH - WAREHOUSE
+cat__Property Use Code_PIICH - CHURCH
+cat__Property Use Code_PIISC - SCHOOL
+cat__Property Use Code_RESAP - APARTMENTS
+cat__Property Use Code_RESDU - DUPLEX
+cat__Property Use Code_RESGC - RESIDENTIAL GROUP CARE
+cat__Property Use Code_RESMA - MULTIPLE ATTACHED UNITS
+cat__Property Use Code_RESMC - MULTIFAMILY CONVERSION
+cat__Property Use Code_RESRH - ROW HOUSING
+cat__Property Use Code_RESSD - DETACHED SINGLE DWELLING
+cat__Property Use Code_RESSS - SIDE BY SIDE
+cat__Property Use Code_RESSU - RESIDENTIAL SECONDARY UNIT
+cat__Property Use Code_VAGRI - VACANT AGRICULTURAL
+cat__Property Use Code_VAPRK - VACANT PARK
+cat__Property Use Code_VCOMM - VACANT COMMERCIAL
+cat__Property Use Code_VINDU - VACANT INDUSTRIAL
+cat__Property Use Code_VRES1 - VACANT RESIDENTIAL 1
+cat__Property Use Code_VRES2 - VACANT RESIDENTIAL 2
+cat__Property Use Code___OTHER__
