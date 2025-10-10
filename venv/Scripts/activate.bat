@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Venv\venv
+=======
+set VIRTUAL_ENV=C:\AVM Project\venv
+>>>>>>> 1589af2da76d4f146dd58fcf215cae92b0cca66e
 
 if not defined PROMPT set PROMPT=$P$G
 
