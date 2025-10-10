@@ -17,7 +17,7 @@ The project Automated Valuation Model to predict the assessed value of a residen
 7. Model Evaluation was done calculating MAE,RMSE,R²,WAPE and MAPE on the test set
 8. Model Explainability by applied Aapplying SHAP Values to identify features that influences our perfomance metrics. 
 
-# OUTCOMES-Non Technical Team
+# Outcomes -Non Technical Team
 # Project Goal
 This project is a model built to access property value in winnipeg based on features of the dataset provided for the project,by using this dataset our the model was able to learn patterns between features in the daaset to access property values . The goal of this project is to support consisted ,automated data-driven valuation  in other to access property values in Winnipeg.
 # What was done
@@ -29,4 +29,4 @@ Property Valuation automation model process reduce manual work and human error a
 It can estimates property values in seconds which speed up asssements process for business users .
 It provides insight into which property features affect porperty value the most.(Word count 200)
 
-# OUTCOMES-Technical Team
+# Outcomes -Technical Team
